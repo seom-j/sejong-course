@@ -39,7 +39,7 @@ int countOnesButSlow(int* A[], int n) {
 		}
 	}
 	return cnt;
-} // 문제에 제시된 알고리즘에 의함
+}
 
 int countOnes(int* A[], int n) {
 	int cnt = 0, jd = n - 1; // 1의 개수 cnt, x축 인덱스 jd 설정
