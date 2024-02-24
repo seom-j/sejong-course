@@ -20,11 +20,15 @@
 
 > 트리를 활용한 양자택일식 문답 시스템 구축
 
-<br/><br/>
+<br/>
 
 > 세종대학교 2022-1 자료구조 및 실습
 >
 > 2022.03 ~ 2022.05
+
+<br/>
+
+>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <br/><br/>
 
