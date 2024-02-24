@@ -20,11 +20,16 @@
 
 > 한 개의 다익스트라 확장 알고리즘을 활용하여 최단경로 개수 및 최단거리를 찾는 알고리즘 구현
 
-<br/><br/>
+<br/>
 
 > 세종대학교 2022-2 알고리즘 및 실습
 >
 > 2022.09 ~ 2022.11
+
+<br/>
+
+>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 <br/><br/>
 
