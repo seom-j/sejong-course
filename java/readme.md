@@ -47,6 +47,9 @@ simple-banking-system-project : 은행 ATM 시스템 구현
 > 
 > 반드시 별도의 Thread를 구성하여 동작
 
+<br/>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br/><br/>
 
