@@ -30,6 +30,8 @@ socket-project-mail-sender : SMTP 프로토콜을 활용한 네이버 메일 시
 > 
 > 10. CLOSE
 
+<br/><br/>
+
 ## :star2: 프로젝트 기능
 
 📌 작성한 아이디/비밀번호에 해당하는 네이버 계정에 연결 
@@ -40,6 +42,7 @@ socket-project-mail-sender : SMTP 프로토콜을 활용한 네이버 메일 시
 
 📌 메일 전송
 
+<br/><br/>
 
 ## :star2: 프로젝트 결론
 
