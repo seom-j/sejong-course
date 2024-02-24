@@ -1,1 +1,0 @@
-# sejong-course
