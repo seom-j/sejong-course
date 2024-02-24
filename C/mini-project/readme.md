@@ -23,7 +23,7 @@
 ## :star2: 프로젝트 기능
 
 📌 아래의 명령들에 해당하는 숫자를 입력받아 기능 수행
-
+>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 1. Registration
 > 정보(이름, 전화번호, 생일)를 입력받아 연락처에 등록
