@@ -42,6 +42,11 @@ socket-project-mail-sender : SMTP 프로토콜을 활용한 네이버 메일 시
 
 📌 메일 전송
 
+<br/>
+
+> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 <br/><br/>
 
 ## :star2: 프로젝트 결론
