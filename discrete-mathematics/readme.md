@@ -27,6 +27,10 @@ sorting-algorithm-analyzer : 정렬 알고리즘의 이해 및 다양한 상황�
 
 📌 상황별, 데이터 개수별 정렬 알고리즘 시간복잡도 분석
 
+<br/>
+
+>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 <br/><br/>
 
 ## :star2: 프로젝트 결론
