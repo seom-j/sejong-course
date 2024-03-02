@@ -36,3 +36,7 @@ comparison-of-CNN-and-MLP-project-report : MNIST data set을 활용한 CNN과 ML
 2. 성능(accuracy)가 유사한 MLP 모델과의 비교
 
   > 윈도우의 파라미터를 공유하는 CNN이 복잡도가 낮은 것을 확인할 수 있었음
+
+<br/>
+
+최종적으로 CNN은 윈도우의 파라미터를 공유한다는 특징과 인풋 데이터의 공간적 구조를 이해할 수 있다는 특징을 가지고 있어 MLP에 비해 그리드 형식의 인풋에 적합한 모델이라는 것을 확인할 수 있었음
